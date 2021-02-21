@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?&height=300&text=Quines%20In%20All%20Languages&animation=fadeIn)
 
+This repo is a collection of quines in all programming languages.
 
-# QuinesInAllLangs
+A quine in computer science is a program which takes no input and produces a copy of its source code as its only output.
 
-A quine in computer science is a program which takes no input and produces a copy of its source code as its only output. 
-And, this repo contains quines in all programming languages.
+## Contributing
+Everyone is welcome to contribute to this repo - read the contribution guidelines to find out how.
