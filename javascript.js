@@ -1,3 +1,3 @@
-(function f(){
-        console.log("("+f.toString()+")();");
-})();
+!function f(){
+        console.log(`${f.toString()}`);
+}();
