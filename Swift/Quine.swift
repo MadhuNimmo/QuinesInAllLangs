@@ -1,10 +1,10 @@
-public class Quine //adapted from http://wiki.c2.com/?QuineProgram
+public class Quine //adapted from Java quine at https://en.wikipedia.org/wiki/Quine_(computing)#Constructive_quines
 {
     public static func main()
     {
         let q = Character(UnicodeScalar(34))
         let l : [String] = [
-        "public class Quine //adapted from http://wiki.c2.com/?QuineProgram",
+        "public class Quine //adapted from Java quine at https://en.wikipedia.org/wiki/Quine_(computing)#Constructive_quines",
         "{",
         "    public static func main()",
         "    {",
